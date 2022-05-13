@@ -9,7 +9,7 @@ let totalChars = 0;
 let correctChars = 0;
 
 const testTime = 160;  //  原來是 60 秒
-const amountOfWords = 180;
+const amountOfWords = 400; //  原來是 180 字
 let currentTestTime = testTime;
 
 let WPM = 0;
