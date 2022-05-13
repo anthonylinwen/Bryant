@@ -8,7 +8,7 @@ let charAcc = 0;
 let totalChars = 0;
 let correctChars = 0;
 
-const testTime = 60;
+const testTime = 160;  //  原來是 60 秒
 const amountOfWords = 180;
 let currentTestTime = testTime;
 
