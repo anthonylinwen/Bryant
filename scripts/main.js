@@ -8,8 +8,8 @@ let charAcc = 0;
 let totalChars = 0;
 let correctChars = 0;
 
-const testTime = 160;  //  原來是 60 秒
-const amountOfWords = 400; //  原來是 180 字
+const testTime = 600; //原來 60
+const amountOfWords = 500; //原來 180
 let currentTestTime = testTime;
 
 let WPM = 0;
